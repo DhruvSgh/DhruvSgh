@@ -7,7 +7,7 @@
 - 📫 How to reach me: rajput.dhruv21301@gmail.com
 - ⚡ Fun fact:  I can cook the most amazing food.
 
-🧑‍💻Technical Skills
+##🧑‍💻Technical Skills
 
 Languages
 
@@ -18,10 +18,9 @@ Tools Used
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-GitHub Stats
+##GitHub Stats
 
 [![Dhruv Github Stats](https://github-readme-stats.vercel.app/api?username=DhruvSgh&&show_icons=true&theme=dark)](https://github.com/DhruvSgh/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSgh&langs_count=8layout=compact)](https://github.com/DhruvSgh/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DhruvSgh&repo=github-readme-stats)](https://github.com/DhruvSgh/github-readme-stats)
