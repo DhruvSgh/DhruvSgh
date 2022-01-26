@@ -21,6 +21,3 @@ Tools Used
 ##GitHub Stats
 
 [![Dhruv Github Stats](https://github-readme-stats.vercel.app/api?username=DhruvSgh&&show_icons=true&theme=dark)](https://github.com/DhruvSgh/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSgh&langs_count=8layout=compact)](https://github.com/DhruvSgh/github-readme-stats)
-
